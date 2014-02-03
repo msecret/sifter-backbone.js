@@ -7,7 +7,7 @@ ISTANBUL=node_modules/.bin/istanbul
 UGLIFYJS=node_modules/.bin/uglifyjs
 
 OUT=sifter.js
-OUT_MIN=sifter.min.js
+OUT_MIN=sifter-backbone.min.js
 BANNER=/*! sifter.js | https://github.com/brianreavis/sifter.js | Apache License (v2) */
 
 all: compile
